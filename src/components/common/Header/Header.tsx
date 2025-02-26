@@ -1,6 +1,7 @@
 //library
 import { NavLink } from "react-router-dom";
 
+
 const Header = () => {
     return (
         <header className="w-full  py-4 px-6 md:px-20">
